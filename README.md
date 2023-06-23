@@ -4,7 +4,7 @@ I’m interested in increasing my powerskills in programming.
 
 I’m already know from my study C++, C#, C, Java Spring Boot, GIT Flow and SQL like PostgreSql, MySql.
 
-I’m currently increasing skills in Java Spring and NodeJS for Backend part and JavaScript, TypeScript, ReactJS for Frontend and Web programming.
+I’m currently increasing skills in Java Spring for Backend part and ReactJS for Frontend and Web programming.
 
 @Student of CTU in Prague.
 
